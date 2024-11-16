@@ -3,7 +3,7 @@
 ## **Download and Run**
 
 1. **Download the Latest Release:**
-   - Go to the [Releases](https://github.com/YOUR_USERNAME/AudioAnalysisATRTool/releases) section of this repository.
+   - Go to the [Releases](https://github.com/yanai-klugman/AudioAnalysis/releases) section of this repository.
    - Download the file: `AudioAnalysisATRTool.zip`.
 
 2. **Extract the ZIP File:**
@@ -39,9 +39,9 @@
 Before building or running this application, ensure you have:
 
 1. **Required Files** (Place them in a known location):
-   - `ATR_Runner.exe` – The main executable for analysis.
-   - `white_noise.wav` – Sample WAV file for testing.
-   - `sine.wav` – Sample WAV file for testing.
+   - `ATR_Runner.exe` â€“ The main executable for analysis.
+   - `white_noise.wav` â€“ Sample WAV file for testing.
+   - `sine.wav` â€“ Sample WAV file for testing.
 2. **.NET SDK 9.0 or Later**: Install the [.NET SDK](https://dotnet.microsoft.com/download) if not already installed.
 
 ---
@@ -51,8 +51,8 @@ Before building or running this application, ensure you have:
 1. **Clone the Repository:**
 
    ```pwsh
-   git clone https://github.com/YOUR_USERNAME/AudioAnalysisATRTool.git
-   cd AudioAnalysisATRTool
+   git clone https://github.com/yanai-klugman/AudioAnalysis.git
+   cd AudioAnalysis
    ```
 
 2. **Open the Solution:**
